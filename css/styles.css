@@ -337,7 +337,7 @@ img {
 }
 
 .portfolio-item:hover .portfolio-overlay-text,
-.portfolio-item:focus .portfolio-overlay-text {
+.portfolio-item:focus-within .portfolio-overlay-text {
   transform: translateY(0);
 }
 
